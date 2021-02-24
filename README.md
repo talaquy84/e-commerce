@@ -1,2 +1,2 @@
-# e-commerce
-To start the project, run "npm run dev"
+# e-commerce tech shop
+Visit the website: https://e-commerce-tech-shop.herokuapp.com/login
